@@ -1,0 +1,3 @@
+while True: cmd = input('Type 'exit' to quit')
+if cmd == 'exit': print('Shutting down') 
+
